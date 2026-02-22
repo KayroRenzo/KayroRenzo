@@ -37,7 +37,7 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
   </a>
 </p>
 
-- ### 🤖 Linguagens e Tecnologias
+-- ### 🤖 Linguagens e Tecnologias
 
 <img
   align="left"
