@@ -38,7 +38,7 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
 </p>
 
 <hr/>
-**`DESENVOLVEDOR FULLSTACK`** 
+**Habilidades Técnicas** 
 
 <img
   align="left"
