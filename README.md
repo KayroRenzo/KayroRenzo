@@ -25,8 +25,8 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
 <img
   alt="Instagram"
   title="Sigam meu perfil"
-  width="30"
-  height="30"
+  width="50"
+  height="50"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png"
 />
   </a>
