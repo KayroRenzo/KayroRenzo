@@ -34,7 +34,13 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
     style="text-decoration: none"
     href="https://www.linkedin.com/in/kayro-renzo-619121321/details/skills/"
   >
-    <i class="devicon-aarch64-plain"></i>
+<img
+  alt="LinkedIn"
+  title="Meu perfil no LinkedIn"
+  width="30"
+  height="30"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"
+/>
   </a>
 </p>
 
