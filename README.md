@@ -13,7 +13,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
         <img 
             alt="instagram" 
             title="sigam meu perfil"
-            width="30" 
+            width="50" 
             src="https://img.freepik.com/premium-vector/art-illustration_1166422-331.jpg?semt=ais_hybrid&w=740&q=80"
         />
     </a>
@@ -21,7 +21,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
         <img 
             alt="linkedin" 
             title="Me siga no Linkedin" 
-            width="30"
+            width="50"
             src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-linkedin-isolado-em-fundo-branco_469489-985.jpg?semt=ais_related_payload_trends&w=740&q=80"
         />
     </a>
@@ -35,7 +35,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -43,7 +43,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -51,7 +51,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -59,7 +59,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -68,7 +68,7 @@ Compartilho meus projetos, estudos e evolução profissional através do LinkedI
     align="left" 
     alt="SQL" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://static.cdnlogo.com/logos/m/10/mysql.svg" 
 />
