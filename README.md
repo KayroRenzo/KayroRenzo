@@ -56,6 +56,15 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
 
 <img
   align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+  align="left"
   alt="SQL"
   title="PHP"
   width="50px"
