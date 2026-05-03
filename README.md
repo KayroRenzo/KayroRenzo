@@ -17,21 +17,6 @@ evolução profissional através do LinkedIn, GitHub e Instagram.
   href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 
-<p align="left">
-  <a
-    style="text-decoration: none"
-    href="https://www.instagram.com/kayro_renz0/"
-  >
-<img
-  alt="Instagram"
-  title="Sigam meu perfil"
-  width="50"
-  height="50"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png"
-/>
-  </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
