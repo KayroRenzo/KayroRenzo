@@ -4,7 +4,7 @@
 
 
 Me chamo Kayro Renzo, tenho 16
-anos e sou natural de Poranga. Atualmente estou concluindo o ensino médio na
+anos. Atualmente estou concluindo o ensino médio na
 Escola Profissional Dario Catunda Fontenele, onde curso Informática. Atuo como
 desenvolvedor FullStack em formação, com foco no desenvolvimento de aplicações
 web, buscando sempre evoluir minhas habilidades tanto no front-end quanto no
