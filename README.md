@@ -4,13 +4,7 @@
 
 
 Me chamo Kayro Renzo, tenho 16
-anos. Atualmente estou concluindo o ensino médio na
-Escola Profissional Dario Catunda Fontenele, onde curso Informática. Atuo como
-desenvolvedor FullStack em formação, com foco no desenvolvimento de aplicações
-web, buscando sempre evoluir minhas habilidades tanto no front-end quanto no
-back-end. Sou apaixonado por tecnologia e estou constantemente aprendendo novas
-ferramentas e boas práticas de programação. Compartilho meus projetos, estudos e
-evolução profissional através do LinkedIn, GitHub e Instagram.
+anos. Sou desenvolvedor Full Stack em formação e estudante do curso técnico em Informática na EEEP Dario Catunda Fontenele. Atuo no desenvolvimento de aplicações web, combinando a construção de interfaces dinâmicas no Front-end com a estruturação de lógicas eficientes no Back-end. Meu foco está no aprimoramento contínuo de competências técnicas, na resolução de problemas complexos e na aplicação de boas práticas de programação e arquitetura de software. Compartilho meus projetos, estudos e evolução profissional através do LinkedIn, GitHub e Instagram.
 <link
   rel="stylesheet"
   type="text/css"
