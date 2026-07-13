@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Kayro Renzo 
 
-**`DESENVOLVEDOR FULLSTACK`** 
+**`DESENVOLVEDOR BACK-END`** 
 
 
 Me chamo Kayro Renzo, tenho 16
