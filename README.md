@@ -57,5 +57,14 @@ anos. Sou desenvolvedor Full Stack em formação e estudante do curso técnico e
   src="https://static.cdnlogo.com/logos/m/10/mysql.svg"
 />
 
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
 <br />
 <br />
