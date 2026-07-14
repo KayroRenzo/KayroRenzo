@@ -3,8 +3,7 @@
 **`DESENVOLVEDOR BACK-END`** 
 
 
-Me chamo Kayro Renzo, tenho 16
-anos. Sou desenvolvedor Full Stack em formação e estudante do curso técnico em Informática na EEEP Dario Catunda Fontenele. Atuo no desenvolvimento de aplicações web, combinando a construção de interfaces dinâmicas no Front-end com a estruturação de lógicas eficientes no Back-end. Meu foco está no aprimoramento contínuo de competências técnicas, na resolução de problemas complexos e na aplicação de boas práticas de programação e arquitetura de software. Compartilho meus projetos, estudos e evolução profissional através do LinkedIn, GitHub e Instagram.
+Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em Informática e finalizando o terceiro ano do Ensino Médio. Tenho curiosidade para aprender e me aprimorar constantemente. Meu foco é escrever código limpo e reutilizável, e gosto de colaborar e compartilhar conhecimento com meus colegas. Atuo no desenvolvimento de aplicações web, sistemas corporativos, aplicações desktop e APIs REST, sempre buscando soluções eficientes e bem estruturadas. Com foco na minha carreira no setor bancário, também aprecio criar minhas próprias soluções para os desafios do dia a dia. Além disso, estou empenhado em estudar estruturas de dados e padrões de projetos para refinar minha capacidade de resolução de problemas.
 <link
   rel="stylesheet"
   type="text/css"
@@ -14,23 +13,6 @@ anos. Sou desenvolvedor Full Stack em formação e estudante do curso técnico e
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
 <img
   align="left"
   alt="JavaScript"
