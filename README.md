@@ -85,17 +85,6 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
     />
   </a>
-  
-  <a href="https://www.docker.com/">
-    <img
-      align="left"
-      alt="Docker"
-      title="Docker"
-      width="50px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-    />
-  </a>
 </p>
 
 <br clear="left"/>
