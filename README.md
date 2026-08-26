@@ -15,14 +15,6 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
 ### 🤖 Linguagens e Tecnologias
 <img
   align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-  align="left"
   alt="PHP"
   title="PHP"
   width="50px"
@@ -47,6 +39,21 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
-
+<img
+  align="left"
+  alt="Spring Boot"
+  title="Spring Boot"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
+  alt="JPA"
+  title="JPA"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+/>
 <br />
 <br />
