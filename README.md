@@ -15,30 +15,13 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
 ### 🤖 Linguagens e Tecnologias
 <img
   align="left"
-  alt="PHP"
-  title="PHP"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img
-  align="left"
-  alt="SQL"
-  title="PHP"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://static.cdnlogo.com/logos/m/10/mysql.svg"
-/>
-
-<img
-  align="left"
   alt="Java"
   title="Java"
   width="50px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img
   align="left"
   alt="Spring Boot"
@@ -47,6 +30,7 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
+
 <img
   align="left"
   alt="JPA"
@@ -54,6 +38,15 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
   width="50px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+/>
+
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <br />
 <br />
