@@ -78,10 +78,6 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
 
 <br clear="left"/>
 
----
-
-### 📊 Estatísticas
-
 <p align="left">
   <a href="https://github.com/KayroRenzo?tab=repositories&sort=stargazers">
     <img 
