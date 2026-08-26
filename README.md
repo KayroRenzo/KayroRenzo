@@ -64,17 +64,6 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
     />
   </a>
   
-  <a href="https://github.com/">
-    <img
-      align="left"
-      alt="GitHub"
-      title="GitHub"
-      width="50px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
-  </a>
-  
   <a href="https://www.postman.com/">
     <img
       align="left"
