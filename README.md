@@ -64,16 +64,15 @@ Sou um desenvolvedor Back-End em formação, com 16 anos, cursando técnico em I
     />
   </a>
 <a href="https://www.docker.com/">
-  <div style="display: inline-block; background: #2496ED; border-radius: 50%; padding: 10px; width: 60px; height: 60px; display: inline-flex; align-items: center; justify-content: center;">
-    <img
-      alt="Docker"
-      title="Docker"
-      width="40px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-    />
-  </div>
+  <img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="50px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+  />
 </a>
-  
   <a href="https://www.postman.com/">
     <img
       align="left"
